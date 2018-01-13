@@ -44,5 +44,4 @@ Things to submit:
 
 If you are using Google Slides or other online presentation tool, please ensure your presentation is open to the public and add your link below:
 
-My Presentation link: ???
-
+My Presentation link: https://docs.google.com/presentation/d/1kcZ2hpptNOEJ3W08r2uiGJnQe4yD2RSCpWKGI6EBkVI/edit?usp=sharing
